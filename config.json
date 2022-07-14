@@ -28,19 +28,47 @@
       "applovin_native": "unitid",
       
       "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
+      "ironsource_inter": "1215fccad",
+
+      "fan_banner":"YOUR_PLACEMENT_ID",
+      "fan_inter":"YOUR_PLACEMENT_ID",
+      "fan_native":"YOUR_PLACEMENT_ID"
       
       
     }
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "More Wolfs & Armor",
+        "role": "This add-on include a concept of personalizable armor for wolfs. And, as an extra, 2 new skins for wolfs ( that can be armored too ). This is an add-on that some suscribers ask me to do.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Werewolf/3/dua.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Werewolf/3/morepets&armor_v1.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Werewolf/3/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Werewolf/3/dua.png"
+    },
+    {
+        "name": "The CURSED BIOME Addon Version 2 (Cursed Wolf Update)",
+        "role": "Have you ever wanted to have a new and unique biome in Minecraft for you and your friends to challenge stronger creatures? Well this addon gives you one! It’s called the CURSED BIOME. Unlike any other biomes in Minecraft, this biome is different and has very unique creatures that no one has ever seen.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Werewolf/5/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Werewolf/5/The CURSED BIOME Addon Version 2 UPDATE_1617853767005.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Werewolf/5/empoat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Werewolf/5/dua.jpeg"
+    },
+    {
+        "name": "Werewolf Boss by Inwardwolf61415",
+        "role": "Werewolf Boss was came from the dungeon and this mob is dangerous.This mob was based on Explorationcraft Monster.Has a appearance of combination of Human and Wolf.And the result is this.This Monster his here for a reason.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Werewolf/1/lima.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Werewolf/1/Werewolf_Boss_addon_1617174188723.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Werewolf/1/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Werewolf/1/dua.jpeg"
+    },
+    {
+        "name": "Wolf Armor, Bars, Storage and Slot To Eat",
+        "role": "You've complained about the delicate nature of wolves. This add-on has the option of craft enchantable armors to protect your wolves and the ability to store items in he. I hope u like.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Werewolf/2/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Werewolf/2/WolfArmorStorageBars2Juaneitor.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Werewolf/2/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Werewolf/2/dua.png"
     }
   ],
   "Map": [
@@ -55,12 +83,12 @@
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Legoshi The Wolf Texture Pack",
+        "role": "This pack will retexture all of the wolves into Legoshi from 'Beastars'. All characters belong to Paru Itagaki. Just a nice and fun way to embrace the Wildside within your game!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Werewolf/4/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Werewolf/4/Legoshi Wolf Textures.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Werewolf/4/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Werewolf/4/dua.png"
     }
   ],
   "Skins": [
